@@ -69,8 +69,14 @@
         <mxCell id="cJsFGOh0ClovCSBm4SIm-22" value="主成分H2S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cJsFGOh0ClovCSBm4SIm-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cJsFGOh0ClovCSBm4SIm-24" target="cJsFGOh0ClovCSBm4SIm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJsFGOh0ClovCSBm4SIm-24" value="混合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cJsFGOh0ClovCSBm4SIm-27" value="混合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="-830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
