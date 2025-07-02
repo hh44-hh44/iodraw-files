@@ -41,7 +41,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-9">
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-9" target="Z5IMF1-ZIh_qfcxO5N5b-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="615" y="240" as="targetPoint" />
           </mxGeometry>
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-31" value="离心泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="252" width="85" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.928;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-31" target="Z5IMF1-ZIh_qfcxO5N5b-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
