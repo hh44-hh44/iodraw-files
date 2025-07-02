@@ -56,6 +56,15 @@
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-15" target="Z5IMF1-ZIh_qfcxO5N5b-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-15" target="Z5IMF1-ZIh_qfcxO5N5b-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="130" />
+              <mxPoint x="580" y="130" />
+              <mxPoint x="580" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-15" value="换热" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
         </mxCell>
