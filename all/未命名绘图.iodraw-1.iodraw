@@ -137,7 +137,13 @@
           <mxGeometry x="660" y="150" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.906;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-36" target="Z5IMF1-ZIh_qfcxO5N5b-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="130" />
+              <mxPoint x="630" y="130" />
+              <mxPoint x="630" y="148" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
