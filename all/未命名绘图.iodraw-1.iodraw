@@ -22,11 +22,6 @@
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-5" value="离心泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-7" value="预热" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524.5" y="30" width="120" height="60" as="geometry" />
         </mxCell>
