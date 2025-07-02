@@ -133,8 +133,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-36" value="再沸器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.906;entryY=-0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-36" target="Z5IMF1-ZIh_qfcxO5N5b-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
