@@ -97,10 +97,10 @@
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-22" value="接废水处理厂" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0.999;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Z5IMF1-ZIh_qfcxO5N5b-9">
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="765" y="110.0005318873308" as="sourcePoint" />
-            <mxPoint x="645" y="190.56" as="targetPoint" />
+            <mxPoint x="700" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="765" y="191" />
               <mxPoint x="650" y="191" />
@@ -129,7 +129,9 @@
         </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-33" target="Z5IMF1-ZIh_qfcxO5N5b-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="630" y="231" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
