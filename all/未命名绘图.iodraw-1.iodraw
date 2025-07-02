@@ -112,11 +112,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z5IMF1-ZIh_qfcxO5N5b-31" target="Z5IMF1-ZIh_qfcxO5N5b-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-31" value="冷凝罐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="252" width="65" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Z5IMF1-ZIh_qfcxO5N5b-33" value="离心泵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="252" width="60" height="28" as="geometry" />
+          <mxGeometry x="750" y="252" width="60" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
